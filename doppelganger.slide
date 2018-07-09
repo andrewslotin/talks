@@ -1,0 +1,37 @@
+Doppelganger
+automated (kinda) backups for your GitHub repositories
+11 Jul 2018
+
+Andrew Slotin
+I write Go at DCMN
+andrew.slotin@gmail.com
+https://github.com/andrewslotin/doppelganger
+
+* Why backup?
+
+.image xkcd.png
+.caption Original: [[https://xkcd.com/303/][https://xkcd.com/303/]]
+
+- because Git is such a beautiful distributed revision control system
+- also, uhm, Microsoft
+
+* Doppelganger
+
+Set-and-forget backup tool for your code on GitHub.
+
+.image flow.png
+
+Live demo: [[https://doppelganger.slotin.me][doppelganger.slotin.me]]
+.image live-demo.png
+
+* What's missing?
+
+- Authentication
+- Code download
+- Recurring backups
+
+* What's next?
+
+- Metadata backup (issues, PRs, discussions)
+- Integrations?
+- Code explorer?
